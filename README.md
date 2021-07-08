@@ -1,2 +1,2 @@
 # wcfPubSub
-WCF callback
+Publisher Subscirber Pattern using WCF
